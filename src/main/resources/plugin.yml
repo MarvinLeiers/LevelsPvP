@@ -1,0 +1,5 @@
+name: LevelsPvP
+version: ${project.version}
+main: de.marvinleiers.levelspvp.LevelsPvP
+authors: [Marvin2k0]
+website: www.marvinleiers.de
